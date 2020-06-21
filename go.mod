@@ -1,3 +1,3 @@
-module github.com/learning-actions
+module github.com/hello-actions
 
 go 1.14
